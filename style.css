@@ -1,0 +1,33 @@
+body{
+    background-image: url("leone-venter-VieM9BdZKFo-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar{
+    font-size: 1.5em;
+    font-weight: 100;
+}
+
+#mainNavbar .navbar-brand{
+    color: #03045e;
+}
+
+#mainNavbar .nav-link{
+    color: #03045e;
+    font-weight: 100;
+}
+
+.content{
+     height: 500px;
+     width: 500px;
+     margin: 150px 100px;
+}
+
+.content p{
+    font-size: 20px;
+    font-family: n;
+}
+
+
